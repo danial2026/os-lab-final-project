@@ -12,12 +12,15 @@ docker ps
 
 now just head to url browser and go to this url:
 
-```
-http://localhost:81
-```
+[http://localhost:81](http://localhost:81)
 
 or
 
+[http://127.0.0.1:81](http://127.0.0.1:81)
+
+
+Default Admin User for Nginx:
 ```
-http://127.0.0.1:81
+Email:    admin@example.com
+Password: changeme
 ```
