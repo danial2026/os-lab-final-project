@@ -10,6 +10,8 @@ docker-compose -f docker-compose.yml up -d  --build
 docker ps
 ```
 
+## nodejs app is runing in port 3003
+
 now just head to url browser and go to this url:
 
 [http://localhost:81](http://localhost:81)
